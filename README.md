@@ -1,4 +1,12 @@
-### Hi there 👋
+## Hi, I'm Bruna 🪐
+#### student and web developer
+
+- 🌱 I am currently learning more about web development
+- ⚡ Curiosities: I love to draw, cook and read manga and comics.
+
+
+![](https://acegif.com/wp-content/uploads/cat-typing-1.gif)
+
 
 <!--
 **Pip0ca/Pip0ca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
