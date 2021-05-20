@@ -1,24 +1,14 @@
 ## Hi, I'm Bruna 🪐
-#### student and web developer
+####  Student and web developer 
+<img src="https://acegif.com/wp-content/uploads/cat-typing-1.gif" align="right">
 
 - 🌱 I am currently learning more about web development
+
 - ⚡ Curiosities: I love to draw, cook and read manga and comics.
 
 
-![](https://acegif.com/wp-content/uploads/cat-typing-1.gif)
 
 
-<!--
-**Pip0ca/Pip0ca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### <img height="60" src="http://pa1.narvii.com/6614/73584b66555f90803ef0e5020abe1ea853f87697_00.gif"/>Connect with me: 
+[![](https://img.shields.io/badge/-linkedin-0073B1?style=flat-square)](https://www.linkedin.com/in/bruna-de-paiva-gon%C3%A7alves-791378210/)
+##
